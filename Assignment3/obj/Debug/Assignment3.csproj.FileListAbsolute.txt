@@ -1,0 +1,7 @@
+C:\Users\ANGELIS\OneDrive\PROJECTS\ASSIGNMENT 3\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\ANGELIS\OneDrive\PROJECTS\ASSIGNMENT 3\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\ANGELIS\OneDrive\PROJECTS\ASSIGNMENT 3\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\ANGELIS\OneDrive\PROJECTS\ASSIGNMENT 3\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\ANGELIS\OneDrive\PROJECTS\ASSIGNMENT 3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\ANGELIS\OneDrive\PROJECTS\ASSIGNMENT 3\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\ANGELIS\OneDrive\PROJECTS\ASSIGNMENT 3\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
